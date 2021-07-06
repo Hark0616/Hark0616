@@ -3,7 +3,7 @@
 
 ### Hi! I'm Huber Fuentes <img src="https://github.com/Hark0616/Hark0616/blob/main/Images/Hi.gif" width="30" height="30">
 
-Multidisciplinary data scientist with skills in mathematics, statistics, programming, databases, visualization, classification and prediction models in machine learning.
+Prepared to conceive, implement, operate and maintain products, processes and systems that integrate technologies such as mechanics, electronics and computer science.
 
 # Core Qualifications
 
