@@ -21,4 +21,4 @@ Multidisciplinary data scientist with skills in mathematics, statistics, program
 
 # Contact me
    
-<a href="https://www.linkedin.com/in/huber-fuentes/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="45" width="45"></a> | <a href="https://www.instagram.com/l33pif" target="_blank"><img src="https://e7.pngegg.com/pngimages/722/1011/png-clipart-logo-icon-instagram-logo-instagram-logo-purple-violet-thumbnail.png" height="45" width="45"></a>
+<a href="https://www.linkedin.com/in/huber-fuentes/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="45" width="45"></a> | <a href="https://www.instagram.com/hub_i6/" target="_blank"><img src="https://e7.pngegg.com/pngimages/722/1011/png-clipart-logo-icon-instagram-logo-instagram-logo-purple-violet-thumbnail.png" height="45" width="45"></a>
