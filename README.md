@@ -7,7 +7,7 @@ Prepared to conceive, implement, operate and maintain products, processes and sy
 
 # Core Qualifications
 
-<img src="https://img.shields.io/badge/-Python-brightgreen"> | <img src="https://img.shields.io/badge/-Pandas-blue"> | <img src="https://img.shields.io/badge/-MySQL-lightgrey"> | <img src="https://img.shields.io/badge/-Terminal-orange">
+<img src="https://img.shields.io/badge/-Python-brightgreen"> | <img src="https://img.shields.io/badge/-Pandas-blue"> | <img src="https://img.shields.io/badge/-MySQL-lightgrey"> 
 
 # Softwares, IDE's, OS's
 
