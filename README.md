@@ -21,4 +21,4 @@ Prepared to conceive, implement, operate and maintain products, processes and sy
 
 # Contact me
    
-<a href="https://www.linkedin.com/in/huber-fuentes/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="45" width="45"></a> | <a href="https://www.instagram.com/hub_i6/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" height="45" width="45"></a>
+<a href="https://www.linkedin.com/in/huber-fuentes/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384062.png" height="45" width="45"></a> | <a href="https://www.instagram.com/hub_i6/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="45" width="45"></a>
